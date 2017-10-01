@@ -1,0 +1,6 @@
+[submodule "gph-api"]
+	path = gph-api
+	url = ./gph-api
+[submodule "gph-ui"]
+	path = gph-ui
+	url = ./gph-ui
